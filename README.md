@@ -19,7 +19,7 @@
 </details>
 
 ## Review papers 
-1. Masuyama N<sup>†</sup>, **Mori H*<sup>†</sup>**, Yachie N. <u>[DNA barcodes evolve for high-resolution cell lineage tracing.](https://www.sciencedirect.com/science/article/pii/S1367593119300274?via%3Dihub)</u> *Curr Opin Chem Biol*. 2019 Oct;52:63-71. doi: 10.1016/j.cbpa.2019.05.014. Epub 2019 Jun 15. PMID: 31212208.
+1. Masuyama N<sup>†</sup>, **Mori H<sup>†</sup>**, Yachie N. <u>[DNA barcodes evolve for high-resolution cell lineage tracing.](https://www.sciencedirect.com/science/article/pii/S1367593119300274?via%3Dihub)</u> *Curr Opin Chem Biol*. 2019 Oct;52:63-71. doi: 10.1016/j.cbpa.2019.05.014. Epub 2019 Jun 15. PMID: 31212208.
 2. Ishiguro S, **Mori H**, Yachie N. <u>[DNA event recorders send past information of cells to the time of observation.](https://www.sciencedirect.com/science/article/pii/S1367593119300390)</u> *Curr Opin Chem Biol.* 2019 Oct;52:54-62. doi:10.1016/j.cbpa.2019.05.009. Epub 2019 Jun 11. PMID: 31200335.
 
 <details> 
