@@ -1,7 +1,7 @@
 # Publications
 ## Original papers
 1. **Mori H**, Yachie N. <u>[A framework to efficiently describe and share reproducible DNA materials and construction protocols.](https://www.nature.com/articles/s41467-022-30588-x)</u> *Nat Commun.* 2022 May 24;13(1):2894. doi: 10.1038/s41467-022-30588-x. PMID: 35610233; PMCID: PMC9130275.
-2. Sakata RC<sup>†</sup>, Ishiguro S<sup>†</sup>, **Mori H<sup>†</sup>**, Tanaka M, Tatsuno K, Ueda H, Yamamoto S, Seki M, Masuyama N, Nishida K, Nishimasu H, Arakawa K, Kondo A, Nureki O, Tomita M, Aburatani H, Yachie N. <u>[Base editors for simultaneous introduction of C-to-T and A-to-G mutations.](https://www.nature.com/articles/s41587-020-0509-0)</u> *Nat Biotechnol*. 2020 Jul;38(7):865-869. doi: 10.1038/s41587-020-0509-0. Epub 2020 Jun 2. PMID: 32483365. <sup>†</sup>These authors *equally contributed* to this work.
+2. Sakata RC<sup>†</sup>, Ishiguro S<sup>†</sup>, **Mori H<sup>†</sup>**, Tanaka M, Tatsuno K, Ueda H, Yamamoto S, Seki M, Masuyama N, Nishida K, Nishimasu H, Arakawa K, Kondo A, Nureki O, Tomita M, Aburatani H, Yachie N. <u>[Base editors for simultaneous introduction of C-to-T and A-to-G mutations.](https://www.nature.com/articles/s41587-020-0509-0)</u> *Nat Biotechnol*. 2020 Jul;38(7):865-869. doi: 10.1038/s41587-020-0509-0. Epub 2020 Jun 2. PMID: 32483365. <sup>†</sup>*These authors equally contributed to this work.*
 3. **Mori H**, Evans-Yamamoto D, Ishiguro S, Tomita M, Yachie N. <u>[Fast and global detection of periodic sequence repeats in large genomic resources.](https://academic.oup.com/nar/article/47/2/e8/5124599)</u> *Nucleic Acids Res.* 2019 Jan 25;47(2):e8. doi: 10.1093/nar/gky890. PMID: 30304510; PMCID: PMC6344855.
 
 <details>
@@ -19,7 +19,7 @@
 </details>
 
 ## Review papers 
-1. Masuyama N<sup>†</sup>, **Mori H<sup>†</sup>**, Yachie N. <u>[DNA barcodes evolve for high-resolution cell lineage tracing.](https://www.sciencedirect.com/science/article/pii/S1367593119300274?via%3Dihub)</u> *Curr Opin Chem Biol*. 2019 Oct;52:63-71. doi: 10.1016/j.cbpa.2019.05.014. Epub 2019 Jun 15. PMID: 31212208.
+1. Masuyama N<sup>†</sup>, **Mori H<sup>†</sup>**, Yachie N. <u>[DNA barcodes evolve for high-resolution cell lineage tracing.](https://www.sciencedirect.com/science/article/pii/S1367593119300274?via%3Dihub)</u> *Curr Opin Chem Biol*. 2019 Oct;52:63-71. doi: 10.1016/j.cbpa.2019.05.014. Epub 2019 Jun 15. PMID: 31212208. †*These authors equally contributed to this work.*
 2. Ishiguro S, **Mori H**, Yachie N. <u>[DNA event recorders send past information of cells to the time of observation.](https://www.sciencedirect.com/science/article/pii/S1367593119300390)</u> *Curr Opin Chem Biol.* 2019 Oct;52:54-62. doi:10.1016/j.cbpa.2019.05.009. Epub 2019 Jun 11. PMID: 31200335.
 
 <details> 
