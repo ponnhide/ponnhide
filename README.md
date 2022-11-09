@@ -1,3 +1,8 @@
+# Research Interests
+- Bioinformatics tool development
+- Genetic logic circuit in living cells
+- Laboratory automation
+
 # Publications
 ## Original papers
 1. **Mori H**, Yachie N. <u>[A framework to efficiently describe and share reproducible DNA materials and construction protocols.](https://www.nature.com/articles/s41467-022-30588-x)</u> *Nat Commun.* 2022 May 24;13(1):2894. doi: 10.1038/s41467-022-30588-x. PMID: 35610233; PMCID: PMC9130275.
