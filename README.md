@@ -12,6 +12,6 @@
 ## Software tools
 1. [QUEEN](https://github.com/yachielab/QUEEN) <img src="https://img.shields.io/github/stars/yachielab/QUEEN.svg?style=social">
 2. [SPADE](https://github.com/yachielab/SPADE) <img src="https://img.shields.io/github/stars/yachielab/SPADE.svg?style=social">
-3. [Patchworklib](https://github.com/ponnhide/patchworklib) <img src="https://img.shields.io/github/stars/ponnhide/patchworklib.svg?style=social">
+3. [patchworklib](https://github.com/ponnhide/patchworklib) <img src="https://img.shields.io/github/stars/ponnhide/patchworklib.svg?style=social">
 4. [pyCircos](https://github.com/ponnhide/pyCircos) <img src="https://img.shields.io/github/stars/ponnhide/pyCircos.svg?style=social">
 5. [sangerseq_viewer](https://github.com/ponnhide/sangerseq_viewer) <img src="https://img.shields.io/github/stars/ponnhide/sangerseq_viewer.svg?style=social">
